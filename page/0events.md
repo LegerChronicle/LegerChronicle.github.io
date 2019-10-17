@@ -6,6 +6,9 @@ icon: bookmark
 type: page
 ---
 
+* content
+{:toc}
+
 # School
 Come back later
 
