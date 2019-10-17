@@ -1,3 +1,3 @@
-# my personal blog
+# The Leger Chronicle
 
 
