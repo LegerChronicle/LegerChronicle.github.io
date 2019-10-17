@@ -2,7 +2,7 @@
 layout: page
 title: Events
 permalink: /events/
-icon: bookmark
+icon: hourglass-2
 type: page
 ---
 
