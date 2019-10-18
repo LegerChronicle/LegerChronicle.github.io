@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Gallery
+title: Issues
 permalink: /archive/issues/
 icon: brief-case
 type: 
