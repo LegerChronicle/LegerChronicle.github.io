@@ -5,5 +5,3 @@ permalink: /resources/
 icon: flask
 type: page
 ---
-
-# Resources
