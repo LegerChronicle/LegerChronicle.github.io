@@ -26,7 +26,7 @@
                             <i class="fa fa-{{my_page.icon}}"></i>{{ my_page.title }}
                         </a>
                             
-                            {% for my_page.title == "Archive" %}
+                                                     {% for my_page.title == "Archive" %}
                             <ul>
                                 <li>
                                     <ul>
@@ -35,7 +35,8 @@
                                     </ul>
                                 </li>
                             </ul>
-                            
+                            {% endfor %}
+                         
                     </li>
                     {% endif %}
                 {% endfor %}
