@@ -63,12 +63,20 @@ layout: home
         <div class="wrap">
             <div class="side">
                 <div>
-                    <i class="fa fa-pencil-square-o" aria-hidden="true"></i>
-                    Recent Posts
+                    <i class="lightbulb-o" aria-hidden="true"></i>
+                    Quote of the Week
                 </div>
+                
                 <ul class="content-ul" recent>
-                    {% for post in site.posts offset: 0 limit: 10  %}
-                        <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+                        <li>
+                            <i>"In order to rise
+                            From its own ashes
+                            A pheonix
+                            First
+                            Must
+                            Burn."</i>
+                            - Octavia E. Butler
+                            </a></li>
                     {% endfor %}
                 </ul>
             </div>
