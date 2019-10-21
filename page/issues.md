@@ -4,8 +4,6 @@ title: Issues
 permalink: /archive/issues/
 icon: brief-case
 ---
-* content
-{:toc}
 
 <h2 class= "year">2019</h2>
 <ul>
