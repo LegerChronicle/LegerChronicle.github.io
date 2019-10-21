@@ -25,12 +25,6 @@
                         {% endif %}
                             <i class="fa fa-{{my_page.icon}}"></i>{{ my_page.title }}
                         </a>
-                                {% if my_page.title == 'Archive' %}    
-                        <ul>
-                            <li><a href="https://legerchronicle.github.io/archive/issues/">Issues</a></li>
-                            <li><a href="https://legerchronicle.github.io/archive/gallery/">Gallery</a></li>
-                        </ul>
-                    {% endif %}
                     </li>
                     {% endif %}
                 {% endfor %}
@@ -39,3 +33,10 @@
         </nav>
     </div>
 </header>
+
+                               <!-- {% if my_page.title == 'Archive' %}    
+                        <ul>
+                            <li><a href="https://legerchronicle.github.io/archive/issues/">Issues</a></li>
+                            <li><a href="https://legerchronicle.github.io/archive/gallery/">Gallery</a></li>
+                        </ul>
+                    {% endif %}-->
