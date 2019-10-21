@@ -6,6 +6,31 @@ layout: home
     <div class="left">
         <h1>Welcome to Léger's newspaper!</h1>
         <small>Check back later when the site is no longer underconstruction.</small>
+        
+        <style>
+.Isbutton {
+  background-color: #526B49;
+  border: none;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.Isbutton:hover {
+  background-color: #42563A;
+}
+</style>
+</head>
+<body>
+
+<p>Check out the newest paper!</p>
+
+<button class="Isbutton">Latest Issue</button>
+
+</body>
+        
         <hr>
         <ul>
             {% for post in paginator.posts %}
