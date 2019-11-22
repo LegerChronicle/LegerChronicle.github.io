@@ -14,6 +14,8 @@ type: page
 Name | Meet date(s) | Meet time | Room no.
 -----|--------------|-----------|---------
 Anime Club | every Thursday | after school, 2:30-3:30 | 117
+Art Club | every Thursday | after school, 2:30-3:30 | 129
+
 
 
 # Teams
