@@ -11,20 +11,20 @@ type: page
 
 # Clubs
 
-Name | Meet date(s) | Meet time | Room no.
------|--------------|-----------|---------
-<nowiki>*</nowiki>Anime Club | Thursdays | after school, 2:30-3:30 | 117
-Archery | Wednesdays | after school, 2:30-3:30 | Great Hall
-<nowiki>*</nowiki>Art Club | Thursdays | after school, 2:30-3:30 | 129
-Athletic Council
-AV Tech
-Band Council
-<nowiki>*</nowiki>Breakfast Club | Tuesdays | before school, 7:30-8:00 | 106
-<nowiki>*</nowiki>Chaplaincy | listen to announcements for meetings | varies | Chapel
-Crossfit: coming soon!
-Dance Team
-D.E.C.A
-<nowiki>*</nowiki>Drama Club | Wednesdays | after school, 2:30-4:00 | 109
+| Name | Meet date(s) | Meet time | Room no. |
+| ------ | ---------- | --------- | --------- |
+| <nowiki>*</nowiki>Anime Club | Thursdays | after school, 2:30-3:30 | 117 |
+| Archery | Wednesdays | after school, 2:30-3:30 | Great Hall |
+| <nowiki>*</nowiki>Art Club | Thursdays | after school, 2:30-3:30 | 129 |
+| Athletic Council |
+| AV Tech |
+| Band Council |
+| <nowiki>*</nowiki>Breakfast Club | Tuesdays | before school, 7:30-8:00 | 106 |
+| <nowiki>*</nowiki>Chaplaincy | listen to announcements for meetings | varies | Chapel |
+| Crossfit: coming soon! |
+| Dance Team |
+| D.E.C.A |
+| <nowiki>*</nowiki>Drama Club | Wednesdays | after school, 2:30-4:00 | 109 |
 <nowiki>*</nowiki>Eco Club | Thursdays | after school | 133
 French Debate Club: coming soon!
 <nowiki>*</nowiki>H.E.R.O Club | Fridays | 2:30-3:30 | 130
