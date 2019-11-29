@@ -19,8 +19,8 @@ Archery|Wednesdays|after school, 2:30-3:30|Great Hall
 Athletic Council
 AV Tech
 Band Council
-<nowiki>*</nowiki>Breakfast Club | Tuesdays | before school, 7:30-8:00 | 106
-<nowiki>*</nowiki>Chaplaincy | listen to announcements for meetings | varies | Chapel
+<nowiki>*</nowiki>Breakfast Club|Tuesdays|before school, 7:30-8:00|106
+<nowiki>*</nowiki>Chaplaincy|listen to announcements for meetings|after school|Chapel
 Crossfit: coming soon!
 Dance Team
 D.E.C.A
