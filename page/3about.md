@@ -21,4 +21,4 @@ New members are always welcomed to drop in, and general student submissions and 
 We thank you for your support and patronage! Our next issue will be out within the new year. 
 
 
-est. November 4th, 2019.
+######est. November 4th, 2019.
