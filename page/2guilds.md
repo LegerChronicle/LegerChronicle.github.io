@@ -40,8 +40,34 @@ Name|Meet date(s)|Meet time|Room no.
  <nowiki>*</nowiki>Unity through Diversity|Wednesdays|after school|110
  <nowiki>*</nowiki>Video Game Club|Tuesdays|after school|106
 
-<nowiki>*</nowiki> New members always welcome!
+<nowiki>*</nowiki>New members always welcome!
 
 # Teams
-list pending...
+### 2019 Fall Season 
+* Basketball, Girls
+* Cross-country 
+* Golf
+* Flag football, Girls
+* Tennis
+* Volleyball, Boys
 
+### 2019-2020 Winter Season
+* Basketball, Boys
+* Curling
+* Hockey, Boys
+* Hockey, Girls
+* Swimming
+* Table tennis
+* Volleyball, Girls
+* Wrestling, Varsity
+
+### 2020 Spring Season
+* Badminton
+* Baseball, Boys
+* Baseball, Girls
+* Lacrosse, Boys
+* Lacrosse, Girls
+* Soccer, Boys
+* Soccer, Girls
+* Track and Field
+* Ultimate Frisbee
