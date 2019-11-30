@@ -40,7 +40,7 @@ Name|Meet date(s)|Meet time|Room no.
  <nowiki>*</nowiki>Unity through Diversity|Wednesdays|after school|110
  <nowiki>*</nowiki>Video Game Club|Tuesdays|after school|106
 
-<nowiki>*</nowiki>New members always welcome!
+ <nowiki>*</nowiki>New members always welcome!
 
 # Teams
 ### 2019 Fall Season 
