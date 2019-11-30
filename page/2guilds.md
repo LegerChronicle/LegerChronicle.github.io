@@ -11,10 +11,10 @@ type: page
 
 # Clubs
 
-Name|Meet date(s)|Meet time|Room no.
-------|----------|---------|--------
-<nowiki>*</nowiki>Anime Club|Thursdays|after school, 2:30-3:30|117
-Archery|Wednesdays|after school, 2:30-3:30|Great Hall
+Name | Meet date(s) | Meet time | Room no.
+--- | --- | --- | ---
+<nowiki>*</nowiki>Anime Club | Thursdays | after school, 2:30-3:30 | 117
+Archery | Wednesdays | after school, 2:30-3:30 | Great Hall
 <nowiki>*</nowiki>Art Club|Thursdays|after school, 2:30-3:30|129
 Athletic Council
 AV Tech
