@@ -11,6 +11,10 @@ type: page
 
 # Clubs
 
+Name|Meet date(s)|Meet time|Room no.
+ ------|----------|---------|--------
+ <nowiki>*</nowiki>Anime Club|Thursdays|after school, 2:30-3:30|117
+
 Name | Meet date(s) | Meet time | Room no.
 --- | --- | --- | ---
 <nowiki>*</nowiki>Anime Club | Thursdays | after school, 2:30-3:30 | 117
