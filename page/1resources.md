@@ -7,7 +7,10 @@ type: page
 ---
 
 # Tutoring
-Lunch time peer tutoring for Math and Science:
-Tuesdays, Wednesdays, and Thursdays in room 101
-3A & 3C lunches
-No appointment necessary! All are welcome.
+Lunch time peer tutoring for Math and Science:<br/>
+Tuesdays, Wednesdays, and Thursdays in room 101<br/>
+3A & 3C lunches<br/>
+No appointment necessary! All are welcome.<br/>
+
+# Helpful Websites
+to be added...
