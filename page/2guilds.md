@@ -16,9 +16,10 @@ Name|Meet date(s)|Meet time|Room no.
  <nowiki>*</nowiki>Anime Club|Thursdays|after school, 2:30-3:30|117
  Archery|Wednesdays|after school, 2:30-3:30|Great Hall
  <nowiki>*</nowiki>Art Club|Thursdays|after school, 2:30-3:30|129
- 
-Athletic Council
-AV Tech
+ Athletic Council
+ AV Tech
+
+txt here
  Band Council
  <nowiki>*</nowiki>Breakfast Club|Tuesdays|before school, 7:30-8:00|106
  <nowiki>*</nowiki>Chaplaincy|listen to announcements for meetings|after school|Chapel
