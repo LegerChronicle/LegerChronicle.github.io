@@ -9,7 +9,7 @@ type: page
 * content
 {:toc}
 
-# Clubs
+# Clubs and Extracurriculars
 
 Name|Meet date(s)|Meet time|Room no.
  ------|----------|---------|--------
@@ -42,7 +42,7 @@ Name|Meet date(s)|Meet time|Room no.
  
  <nowiki>*</nowiki>New members always welcome!
 
-# Teams
+# Sports Teams
 
 ***
 
@@ -60,7 +60,7 @@ Name|Meet date(s)|Meet time|Room no.
 * Hockey, Boys
 * Hockey, Girls
 * Swimming
-* Table tennis
+* Table Tennis
 * Volleyball, Girls
 * Wrestling, Varsity
 
