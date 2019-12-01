@@ -18,6 +18,7 @@ This all started when we (the editors) wanted to create a year-round club that p
 
 New members are always welcomed to drop in, and general student submissions and inquiries can be sent to legerchronicle@gmail.com. See the 'Contact Us' page for more details.
 
-We thank you for your support and patronage! Our next issue will be out within the new year. 
+We thank you for your ongoing support and patronage!<br/>
+Our next issue will be out within the new year. 
 
-###### est. November 4th, 2019.
+est. November 4th, 2019.
