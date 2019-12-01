@@ -44,8 +44,6 @@ Name|Meet date(s)|Meet time|Room no.
 
 # Sports Teams
 
-***
-
 ### 2019 Fall Season 
 * Basketball, Girls
 * Cross-country 
