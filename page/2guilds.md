@@ -39,10 +39,13 @@ Name|Meet date(s)|Meet time|Room no.
  Team Unbreakable| | |
  <nowiki>*</nowiki>Unity through Diversity|Wednesdays|after school|110
  <nowiki>*</nowiki>Video Game Club|Tuesdays|after school|106
-
+<br/>
  <nowiki>*</nowiki>New members always welcome!
 
 # Teams
+
+***
+
 ### 2019 Fall Season 
 * Basketball, Girls
 * Cross-country 
